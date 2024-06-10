@@ -10,6 +10,7 @@ body {
   background-color: #f5f6f7;
   padding: 50px;
   border-radius: 9px;
+  box-shadow: 0 0 1px 0;
 }
 
 .contenedor-interno {
