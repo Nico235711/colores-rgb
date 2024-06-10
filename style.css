@@ -1,0 +1,32 @@
+body {
+  height: 100vh;
+  background-color: rgb(52, 53, 63);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor {
+  background-color: #f5f6f7;
+  padding: 50px;
+  border-radius: 9px;
+}
+
+.contenedor-interno {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.contenedor-interno label {
+  margin-bottom: 5px;
+}
+
+.contenedor-interno p {
+  margin-top: 3px;
+}
