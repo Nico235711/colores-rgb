@@ -32,21 +32,3 @@ colores.forEach(color => {
 
   })
 });
-
-// inputRojo.addEventListener("input", event => {
-//   rojo = event.target.value
-//   textoRojo.textContent = rojo
-//   document.body.style.backgroundColor = `rgb(${rojo}, ${verde}, ${azul})`
-// })
-
-// inputVerde.addEventListener("input", event => {
-//   verde = event.target.value
-//   textoVerde.textContent = verde
-//   document.body.style.backgroundColor = `rgb(${rojo}, ${verde}, ${azul})`
-// })
-
-// inputAzul.addEventListener("input", event => {
-//   azul = event.target.value
-//   textoAzul.textContent = azul
-//   document.body.style.backgroundColor = `rgb(${rojo}, ${verde}, ${azul})`
-// })
